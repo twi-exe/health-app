@@ -18,11 +18,11 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.22.1",
-    "express-handlebars": "^8.0.5",
+    "express-handlebars": "^8.0.6",
     "express-promise-router": "^4.0.1"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.38.4",
-    "dotenv": "^17.2.4"
+    "dotenv": "^17.3.1"
   }
 }
